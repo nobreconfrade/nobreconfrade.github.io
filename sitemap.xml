@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/post/test/</loc>
+    <loc>https://nobreconfrade.github.io/post/test/</loc>
     <lastmod>2018-10-03T19:34:32-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://nobreconfrade.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
-    <lastmod>2018-10-03T19:34:32-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.org/post/</loc>
+    <loc>https://nobreconfrade.github.io/</loc>
     <lastmod>2018-10-03T19:34:32-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://nobreconfrade.github.io/post/</loc>
+    <lastmod>2018-10-03T19:34:32-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nobreconfrade.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
