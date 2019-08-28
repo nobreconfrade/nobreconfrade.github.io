@@ -6,9 +6,28 @@
     <description>Recent content in Tags on William Pereira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 27 Aug 2019 22:06:47 -0300</lastBuildDate>
     
 	<atom:link href="https://nobreconfrade.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>opinion</title>
+      <link>https://nobreconfrade.github.io/tags/opinion/</link>
+      <pubDate>Tue, 27 Aug 2019 22:06:47 -0300</pubDate>
+      
+      <guid>https://nobreconfrade.github.io/tags/opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>welcome</title>
+      <link>https://nobreconfrade.github.io/tags/welcome/</link>
+      <pubDate>Tue, 27 Aug 2019 22:06:47 -0300</pubDate>
+      
+      <guid>https://nobreconfrade.github.io/tags/welcome/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
