@@ -12,3 +12,7 @@
 .design-credit {
     margin-top: 10px;
 }
+
+article p img{
+    max-width: 100%;
+}
